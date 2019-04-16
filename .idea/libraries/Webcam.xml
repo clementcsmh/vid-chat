@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Webcam">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Webcam" />
+      <root url="file://$PROJECT_DIR$/Webcam/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Webcam/examples" />
+      <root url="file://$PROJECT_DIR$/Webcam/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/Webcam" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/Webcam/libs" recursive="false" />
+  </library>
+</component>
